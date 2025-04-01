@@ -1,6 +1,3 @@
-# Recommendation-System-Tuning-with-Implicit-Feedback
-
-
 # Recommendation System Tuning with Implicit Feedback
 
 ## Idea: I am using PPO to optimize recommendations based on clickstream/log data.
